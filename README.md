@@ -1,12 +1,21 @@
 **READ ME**
 
 
-**TITANIC DATASET ANALYSIS**
+**OVERVIEW**
 
 This repository contains Python code for analyzing the Titanic dataset, exploring various aspects of data preprocessing, visualization, and predictive modeling. The code is well-commented and organized into sections, making it easy to understand and replicate the analysis.
 
+**DEPENDENCIES**:
+Python 
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Seaborn
 
-**DESCRIPTIONS**:
+
+
+DESCRIPTIONS**:
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -17,6 +26,8 @@ While there was some element of luck involved in surviving, it seems some groups
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 **ACKNOWLEDGEMENTS**
+
+Contributors: Tracy Chin, Matthew Thomas, Nabih Saleh
 
 This analysis was conducted as part of a 6-Month Columbia Engineering- Artificial Intelligence Executive Program, aiming to demonstrate proficiency in data preprocessing, visualization, and machine learning modeling techniques. Special thanks to the creators of the Titanic dataset and the libraries used in this analysis.
 
