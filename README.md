@@ -27,7 +27,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 **ACKNOWLEDGEMENTS**
 
-Contributors: Tracy Chin, Matthew Thomas, Nabih Saleh
+Contributors: Tracy Chin, Matthew Thomas, Nabih Sabeh, Andi Rodriguez
 
 This analysis was conducted as part of a 6-Month Columbia Engineering- Artificial Intelligence Executive Program, aiming to demonstrate proficiency in data preprocessing, visualization, and machine learning modeling techniques. Special thanks to the creators of the Titanic dataset and the libraries used in this analysis.
 
